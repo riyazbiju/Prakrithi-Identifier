@@ -1,7 +1,9 @@
 **Prakriti Prediction using Artificial Neural Networks**
+
 This was my first experiment with neural networks back in 2021.
 Prakriti, in Ayurveda, describes a person’s natural constitution -> Vata (air & space), Pitta (fire & water), or Kapha (earth & water).
 This project uses an MLPClassifier to analyze responses from a questionnaire about physical and mental traits, predict the dominant prakriti type (or combination), and display the results with percentage breakdowns and a pie chart visualization.
+
 **Overview**
 
 The implementation predicts the Ayurvedic constitution (Vata, Pitta, Kapha) by:
